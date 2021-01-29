@@ -1,0 +1,29 @@
+<article class="faq-item">
+  <a class="btn-link" data-toggle="collapse" href="#{{itemId}}" role="button" aria-expanded="false"
+    aria-controls="itemId">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+      <defs>
+        <style>
+          .a {
+            fill: none;
+            stroke: #b1b1b1;
+            stroke-linecap: round;
+            stroke-miterlimit: 10;
+            stroke-width: 2px;
+          }
+        </style>
+      </defs>
+      <g transform="translate(-369.5 -455.5)">
+        <path class="a" d="M.5,0V20" transform="translate(380 456.5)" />
+        <path class="a" d="M20,.5H0" transform="translate(370.5 466)" />
+      </g>
+    </svg>
+    <span>{{title}}</span>
+  </a>
+  <div class="collapse" id="{{itemId}}">
+    <div class="text">
+      {{text}}
+    </div>
+  </div>
+</article>
+

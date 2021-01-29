@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104" height="29.915" viewBox="0 0 104 29.915">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_11" data-name="Clip 11" d="M.13,7.157A8.507,8.507,0,0,1,10.192.177a8.826,8.826,0,0,1,6.6,10.355h0l-.328,1.754a3.381,3.381,0,0,0,2.63,3.96A7,7,0,0,1,24.641,24.3a6.738,6.738,0,0,1-7.909,5.486,7.008,7.008,0,0,1-5.276-8.241,3.381,3.381,0,0,0-2.63-3.959h0L7.11,17.25A8.811,8.811,0,0,1,.13,7.157Z" transform="translate(0.258 0.177)" fill="#f97757"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Clip_14" data-name="Clip 14" d="M1.382,1.413a4.9,4.9,0,0,0,0,6.821,4.648,4.648,0,0,0,6.674,0,4.9,4.9,0,0,0,0-6.821,4.648,4.648,0,0,0-6.674,0" transform="translate(0.259 0.023)" fill="#f97757"/>
+    </clipPath>
+  </defs>
+  <g id="Group_51929" data-name="Group 51929" transform="translate(-260 -129)">
+    <text id="Din_Ex" data-name="Din Ex" transform="translate(302 151)" fill="#090a2a" font-size="20" font-family="Merriweather-BoldItalic, Merriweather" font-weight="700" font-style="italic"><tspan x="0" y="0">Din Ex</tspan></text>
+    <g id="Icon" transform="translate(259.741 128.823)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_12" data-name="Group 12" transform="translate(1.689)">
+          <path id="Clip_11-2" data-name="Clip 11" d="M.13,7.157A8.507,8.507,0,0,1,10.192.177a8.826,8.826,0,0,1,6.6,10.355h0l-.328,1.754a3.381,3.381,0,0,0,2.63,3.96A7,7,0,0,1,24.641,24.3a6.738,6.738,0,0,1-7.909,5.486,7.008,7.008,0,0,1-5.276-8.241,3.381,3.381,0,0,0-2.63-3.959h0L7.11,17.25A8.811,8.811,0,0,1,.13,7.157Z" transform="translate(0.258 0.177)" fill="#f97757"/>
+          <g id="Group_12-2" data-name="Group 12" clip-path="url(#clip-path)">
+            <path id="Fill_10" data-name="Fill 10" d="M0,31H32.667V0H0Z" transform="translate(-1.622 0.177)" fill="#f97757"/>
+          </g>
+        </g>
+        <g id="Group_15" data-name="Group 15" transform="translate(0 20.424)">
+          <path id="Clip_14-2" data-name="Clip 14" d="M1.382,1.413a4.9,4.9,0,0,0,0,6.821,4.648,4.648,0,0,0,6.674,0,4.9,4.9,0,0,0,0-6.821,4.648,4.648,0,0,0-6.674,0" transform="translate(0.259 0.023)" fill="#f97757"/>
+          <g id="Group_15-2" data-name="Group 15" clip-path="url(#clip-path-2)">
+            <path id="Fill_13" data-name="Fill 13" d="M1.382,1.413a4.9,4.9,0,0,0,0,6.821,4.648,4.648,0,0,0,6.674,0,4.9,4.9,0,0,0,0-6.821,4.648,4.648,0,0,0-6.674,0" transform="translate(0.259 0.023)" fill="#f97757"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

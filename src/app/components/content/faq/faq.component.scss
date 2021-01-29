@@ -1,0 +1,40 @@
+.search-faq {
+  .form-group {
+    position: relative;
+    button {
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .form-control {
+      padding-left: 50px;
+      background-color: #FAFAFA;
+      border-color: #FAFAFA;
+      font-size: 17px;
+      font-weight: 500;
+      color: #030303;
+    }
+  }
+}
+
+.form-dont-find {
+  label {
+    color: #090A2A;
+    font-size: 18px;
+  }
+  .form-control {
+    background-color: #FAFAFA;
+    border-color: #FAFAFA;
+  }
+
+  .form-control:not(textarea) {
+    height: 50px;
+  }
+
+  .btn {
+    border-radius: 10px;
+    font-size: 19px;
+    font-weight: 500;
+  }
+}
